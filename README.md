@@ -7,8 +7,9 @@
 <h3 align="center">A fourth-year Computer Science student with a passion for Front-end development.</h3>
 
 <br/>
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadd9&area=true&hide_border=true&theme=react-dark" height="200" alt="activity-graph" />
+  </div>
 
 <h3 align="center">⚒️ Languages & Frameworks & Tools ⚒️</h3>
 <div align="center">
