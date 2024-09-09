@@ -26,7 +26,7 @@
 
 
 
- <hr/>
+ 
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -37,7 +37,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
