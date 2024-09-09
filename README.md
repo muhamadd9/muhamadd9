@@ -29,4 +29,26 @@
  
 </div>
 
+
  <hr/>
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,figma,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,typescript,npm,mongodb,nextjs" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhamadd9/muhamadd9/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
