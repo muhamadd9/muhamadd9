@@ -9,6 +9,15 @@
 <br/>
 
 
+
+<h3 align="center">⚒️ Languages & Frameworks & Tools ⚒️</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,python,javascript,typescript,npm,mongodb,nextjs" /><br>
+</div>
+
+
+<h3 align="center">Connect with me 🌐</h3>
 <div align="center"> 
   <a href="mailto:mhmdramadan.192@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
@@ -24,18 +33,6 @@
   </a>
 </div>
 
-
-
- 
-
-<h3 align="center">⚒️ Languages & Frameworks & Tools ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,figma,git,github" />
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,python,javascript,typescript,npm,mongodb,nextjs" /><br>
-</div>
-
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhamadd9/muhamadd9/output/github-contribution-grid-snake.svg" />
 </div>
