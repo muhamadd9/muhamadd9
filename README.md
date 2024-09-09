@@ -9,7 +9,9 @@
 <br/>
 
 <div align="center">
-  🌱 I’m currently learning **Node.js, Express, MongoDB, and RESTful APIs.**
+    
+  🌱 I’m currently learning Node.js, Express, MongoDB, and RESTful APIs.
+    
  </div>
  <div align="center"> 
   <a href="mailto:mhmdramadan.192@gmail.com">
