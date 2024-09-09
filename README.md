@@ -23,7 +23,7 @@
   <a href="https://discord.com/users/muhamadd9" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://leetcode.com/muhamadd9/" target="_blank">
+  <a href="https://leetcode.com/muhamadd9_/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
  
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,figma,tailwind,git,github" />
-    <img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,typescript,npm,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,python,javascript,typescript,npm,mongodb,nextjs" /><br>
 </div>
 
 <br/>
