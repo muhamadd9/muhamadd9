@@ -13,8 +13,8 @@
 
 <h3 align="center">⚒️ Languages & Frameworks & Tools ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,figma,sass,git,github" />
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,python,javascript,jquery,materialui,typescript,npm,redux,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,cs,cpp,figma,sass,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,python,javascript,jquery,materialui,typescript,postman,npm,redux,mongodb,nextjs" /><br>
 </div>
 
 
