@@ -8,7 +8,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadd9&area=true&hide_border=true&theme=react-dark" height="200" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadd9&area=true&hide_border=true&theme=react-dark" height="250" alt="activity-graph" />
 </div>
 
 <h3 align="center">⚒️ Languages & Frameworks & Tools ⚒️</h3>
