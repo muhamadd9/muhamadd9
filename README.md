@@ -27,8 +27,9 @@
 
 </div>
 
-<h3 align="center">🌐 Connect with me 🌐</h3>
-<div align="center"> 
+<h3 align="center" style="color: #4B4B4B; text-transform: uppercase; font-weight: bold;">
+  🌐 Connect with Me 🌐
+</h3><div align="center"> 
   <a href="mailto:mhmdramadan.192@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
