@@ -22,7 +22,19 @@
 
 <br/>
 <div align="center">
-  <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muhamadd9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <div style="position: relative; width: 390px; height: 200px;">
+  <img
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muhamadd9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    alt="top langs"
+    style="width: 100%; height: 100%;"
+  />
+  <div
+    style="position: absolute; top: 10%; left: 50%; transform: translate(-50%, -50%); color: #4B4B4B; font-weight: bold; font-size: 18px;"
+  >
+    Most Used Languages
+  </div>
+</div>
+
 </div>
 
 <h3 align="center">🌐 Connect with me 🌐</h3>
