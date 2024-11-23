@@ -39,9 +39,10 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://leetcode.com/muhamadd9_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-2C2C2C?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
 </div>
+
 
 
 <div align="center">
