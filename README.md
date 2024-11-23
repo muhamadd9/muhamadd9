@@ -35,16 +35,14 @@
   <a href="https://www.linkedin.com/in/muhamadd9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/muhamadd9_" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
   <a href="https://discord.com/users/muhamadd9" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://leetcode.com/muhamadd9_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
 </div>
+
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhamadd9/muhamadd9/output/github-contribution-grid-snake.svg" />
