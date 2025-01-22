@@ -13,7 +13,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadd9&area=true&hide_border=true&theme=github" height="250" alt="activity-graph" />
 </div>
 
-<h3 align="center">⚒️ Languages & Frameworks & Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages & Frameworks ⚒️</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,cs,git,github" />
     <img src="https://skillicons.dev/icons?i=react,vite,nodejs,javascript,typescript,postman,npm,redux,mongodb,nextjs" /><br>
