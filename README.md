@@ -12,7 +12,7 @@
 <h3 align="center">A Fourth-year Computer Science student with a passion for Web development.</h3>
 <br/>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadd9&area=true&hide_border=true&theme=github" height="250" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadd9&area=true&hide_border=true&theme=github" height="200" alt="activity-graph" />
 </div>
 
 <h3 align="center">⚒️ Languages & Frameworks ⚒️</h3>
