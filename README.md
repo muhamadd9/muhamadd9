@@ -14,8 +14,8 @@
 
 <h3 align="center">⚒️ Languages & Frameworks ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,html,css,bootstrap,tailwind,vscode,git,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,nest,postman,npm,react,vite,redux,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,html,css,bootstrap,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,nest,react,vite,redux,nextjs" /><br>
 </div>
 
 
