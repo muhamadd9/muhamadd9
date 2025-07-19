@@ -14,7 +14,7 @@
 
 <h3 align="center">⚒️ Languages & Frameworks ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwind,nodejs,express,mongodb,graphql,nest,react,redux,next" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,redux,tailwind,nodejs,express,mongodb,graphql,nest" /><br>
 </div>
 
 
