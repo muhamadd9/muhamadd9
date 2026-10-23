@@ -2,7 +2,7 @@
 
 # Muhamad Eltaweel
 
-**Frontend Developer at [AmanX](https://amanx.sa/)**
+**Frontend Developer at [amanX](https://amanx.sa/)**
 
 I build production web interfaces with Next.js, React, and TypeScript. Over the past two years I have taken features from design handoff through release, with attention to performance, bilingual layouts, and maintainable UI. I also work with Node.js and NestJS when a feature needs the full stack.
 
