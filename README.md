@@ -4,22 +4,7 @@
 
 **Frontend Developer at [amanX](https://amanx.sa/)**
 
-I build production web interfaces with Next.js, React, and TypeScript. Over the past two years I have taken features from design handoff through release, with attention to performance, bilingual layouts, and maintainable UI. I also work with Node.js and NestJS when a feature needs the full stack.
-
-## Experience
-
-**Frontend Developer** · [amanX](https://amanx.sa/)  
-2026 — Present
-
-**Full-Stack Developer** · Wazin  
-2026 — Present · Part-time
-
-**Full-Stack Developer** · In General Digital Solutions  
-2025 — 2026
-
-## Education
-
-Bachelor of Computer Science · KFS University
+I build product interfaces in Next.js, React, and TypeScript. My focus is the screen itself: hierarchy, spacing, interaction, and how a flow feels in both Arabic and English. I take UI from design handoff to a fast, maintainable release, and I use Node.js and NestJS when the interface needs the API behind it.
 
 ## Stack
 
